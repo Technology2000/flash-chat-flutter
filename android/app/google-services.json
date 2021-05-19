@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725813041200",
+    "project_id": "flashchat-4df7d",
+    "storage_bucket": "flashchat-4df7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725813041200:android:63a216c187ada6658935f5",
+        "android_client_info": {
+          "package_name": "com.viba.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725813041200-oc33hv06nhlsdtmjcn50q3kjs0fmqrue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH3OdxjlXDR2tnapq9H-QCP0fsLd-xmsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725813041200-oc33hv06nhlsdtmjcn50q3kjs0fmqrue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
